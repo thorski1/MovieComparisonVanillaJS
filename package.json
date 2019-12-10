@@ -1,0 +1,20 @@
+{
+  "name": "MovieFight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorski1/MovieComparisonVanillaJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorski1/MovieComparisonVanillaJS/issues"
+  },
+  "homepage": "https://github.com/thorski1/MovieComparisonVanillaJS#readme"
+}
